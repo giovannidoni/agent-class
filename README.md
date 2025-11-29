@@ -15,10 +15,10 @@ This repository uses simple math problems as a practical way to understand and e
 
 ```
 math-class/
-├── langgraph_adder.ipynb                          # Basic agent with tool calling
-├── langgraph_math_problem_planner.ipynb           # Agent with planning capabilities
-├── langgraph_math_problem_with_memory.ipynb       # Agent with state persistence
-└── langgraph_math_problem_with_memory_async_tools.ipynb  # Async tool execution
+├── 01_langgraph_adder.ipynb                          # Basic agent with tool calling
+├── 02_langgraph_math_problem_with_memory_async_tools.ipynb  # Async tool execution
+├── 03_langgraph_math_problem_with_memory.ipynb           # Agent with planning capabilities
+└── 04_langgraph_math_problem_planner.ipynb       # Agent with state persistence
 ```
 
 ## Key Concepts Demonstrated
